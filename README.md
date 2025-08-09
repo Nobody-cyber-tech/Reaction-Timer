@@ -1,2 +1,2 @@
 # Reaction-Timer
-Humsn Reaction
+Human Reaction
