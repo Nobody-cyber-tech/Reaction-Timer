@@ -1,2 +1,3 @@
 # Reaction-Timer
-Human Reaction
+Test it. Try It!
+Your Human Power
